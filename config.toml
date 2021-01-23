@@ -1,4 +1,4 @@
-baseURL = "http://balaramadurai.github.io/"
+baseURL = "patel-tirth.github.io/OakTown-4h/"
 title = "OakTown 4-H"
 # subtitle = "Association for Computing Machinery"
 languageCode = "en-us"
@@ -6,7 +6,7 @@ languageCode = "en-us"
 theme = "hugo-travelify-theme"
 GoogleAnalytics = "" # Add your own Google analytics code here in the format UA-XXXXXXXX-X
 canonifyURLs = true
-
+publishDir = "docs"
 # rssURI = "feed/" #deprecated feature
 
 [params]
