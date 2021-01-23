@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on OakTown 4-H</title>
-    <link>patel-tirth.github.io/OakTown-4h/author/</link>
+    <link>patel-tirth.github.io/OakTown-4-H/author/</link>
     <description>Recent content in Author on OakTown 4-H</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate><atom:link href="patel-tirth.github.io/OakTown-4h/author/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate><atom:link href="patel-tirth.github.io/OakTown-4-H/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test2</title>
-      <link>patel-tirth.github.io/OakTown-4h/author/test2/</link>
+      <link>patel-tirth.github.io/OakTown-4-H/author/test2/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>patel-tirth.github.io/OakTown-4h/author/test2/</guid>
+      <guid>patel-tirth.github.io/OakTown-4-H/author/test2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test1</title>
-      <link>patel-tirth.github.io/OakTown-4h/author/test1/</link>
+      <link>patel-tirth.github.io/OakTown-4-H/author/test1/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>patel-tirth.github.io/OakTown-4h/author/test1/</guid>
+      <guid>patel-tirth.github.io/OakTown-4-H/author/test1/</guid>
       <description></description>
     </item>
     
