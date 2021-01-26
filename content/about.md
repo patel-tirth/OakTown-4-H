@@ -20,3 +20,23 @@ The 4-H Youth Development Program is in every county in California. 4-H is a an 
 * Health — Being, Living
 
 Though historically an agriculturally focused organization, 4-H’ers today engage in hands-on learning in the areas of citizenship, healthy living, food security, science, engineering, technology, and more. 4-H continues to develop new projects for its members to study beyond agriculture and animal husbandry, including photography, environmental-stewardship, cooking, urban gardening, and beekeeping.
+
+
+# What Kids Love About 4-H
+
+* Sleep-Away Camp in Napa!
+* Participating in Alameda County Fair
+* Community Service
+* Conferences (county, state, national)
+* Home Exchange Opportunities
+* Skate Night
+
+# What Parents Love About 4-H
+
+* All Kids Welcome!
+* Affordable extracurricular activity
+* Good role-models
+* Volunteering
+* Youth learn public speaking and presentation skills
+* Watching their children grow
+* Many leadership opportunities for both youth and parents
