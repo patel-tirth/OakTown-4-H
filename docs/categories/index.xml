@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on OakTown 4-H</title>
-    <link>patel-tirth.github.io/OakTown-4-H/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on OakTown 4-H</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jun 2016 13:07:31 +0200</lastBuildDate><atom:link href="patel-tirth.github.io/OakTown-4-H/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jun 2016 13:07:31 +0200</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>lorem</title>
-      <link>patel-tirth.github.io/OakTown-4-H/categories/lorem/</link>
+      <link>/categories/lorem/</link>
       <pubDate>Tue, 28 Jun 2016 13:07:31 +0200</pubDate>
       
-      <guid>patel-tirth.github.io/OakTown-4-H/categories/lorem/</guid>
+      <guid>/categories/lorem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
-      <link>patel-tirth.github.io/OakTown-4-H/categories/programming/</link>
+      <link>/categories/programming/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>patel-tirth.github.io/OakTown-4-H/categories/programming/</guid>
+      <guid>/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pseudo</title>
-      <link>patel-tirth.github.io/OakTown-4-H/categories/pseudo/</link>
+      <link>/categories/pseudo/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>patel-tirth.github.io/OakTown-4-H/categories/pseudo/</guid>
+      <guid>/categories/pseudo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>starting</title>
-      <link>patel-tirth.github.io/OakTown-4-H/categories/starting/</link>
+      <link>/categories/starting/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>patel-tirth.github.io/OakTown-4-H/categories/starting/</guid>
+      <guid>/categories/starting/</guid>
       <description></description>
     </item>
     
